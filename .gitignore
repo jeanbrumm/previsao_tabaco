@@ -1,0 +1,19 @@
+# Previsao de Preco do Tabaco — App Streamlit
+# https://github.com/seu-usuario/previsao_tabaco
+
+# Markdown — apenas README.md na raiz
+*.md
+!/README.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
